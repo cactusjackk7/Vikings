@@ -13,7 +13,7 @@
    color: Black !important;
 }
 .navbar-nav li a:hover {
-   color: #fff !important;
+   color: red !important;
 }
 .navbar-nav li.active a {
    color: #fff !important;
